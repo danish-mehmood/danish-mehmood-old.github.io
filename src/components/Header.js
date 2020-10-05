@@ -10,13 +10,13 @@ export default function Header() {
                 <h2 className='hello_world'>Hello World !!!!</h2>
                 <h2 className='introduction_name'>its danish mehmood</h2>
                 <h2 className="introduction_profession">web developer <span className='blueish'> / </span>  <span className="yellowish"> JS </span> developer</h2>
-                <h2 className='introduction_social_media'> <a href=""> facebook </a> <FiFacebook/> 
+                <h2 className='introduction_social_media'> <a href="https://www.facebook.com/rajadanish.mehmood/"> facebook </a> <FiFacebook/> 
                 <span className="blueish"> / </span> 
-                <a href=""> linkedIn </a> <FiLinkedin/>
+                <a href="https://www.linkedin.com/in/danish-mehmood-215480163/"> linkedIn </a> <FiLinkedin/>
                  <span className="blueish"> / 
-                 </span> <a href=""> twitter </a> <FiTwitter/>
+                 </span> <a href="https://twitter.com/home"> twitter </a> <FiTwitter/>
                  <span className="blueish"> / </span> 
-                 <a href=""> Github </a> <FiGithub/>
+                 <a href="https://github.com/danish-mehmood"> Github </a> <FiGithub/>
                  </h2>
                  <h2 className="resume pinkish"><a href='https://danish-mehmood.netlify.app'>My Resume</a></h2>
                  
