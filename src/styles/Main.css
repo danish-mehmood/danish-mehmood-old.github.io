@@ -157,7 +157,7 @@ a.frame__demo--current {
 	line-height: 1;
 	opacity: 0;
 	font-weight: 200;
-	font-size: 30px;
+	font-size: 32px;
 	transform: translateX(-1rem);
 	transition: transform 0.3s, opacity 0.3s;
 }
@@ -173,8 +173,7 @@ a.frame__demo--current {
 	cursor: pointer;
 	display: block;
 	overflow: hidden;
-	font-size: 30px
-}
+	font-size: 32px;}
 
 .menu__item-textinner {
 	display: block;
@@ -196,7 +195,7 @@ a.frame__demo--current {
 .menu__item-sub {
 	display: none;
 	font-weight: 200;
-	font-size: 20px;
+	font-size: 15px;
 	white-space: nowrap;
 	align-items: center;
 	position: relative;
