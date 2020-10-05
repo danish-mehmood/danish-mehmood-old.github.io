@@ -1,0 +1,261 @@
+@media print 
+{
+    @page {
+      size: A4; /* DIN A4 standard, Europe */
+      margin:0;
+    }
+    html, body {
+        width: 210mm;
+        /* height: 297mm; */
+        height: 282mm;
+       
+        background: #f3deed;
+        overflow:visible;
+    }
+    body {
+        margin: 0;
+    }
+    .App{
+      margin: 0px 0px 0px 0px;
+    }
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+
+.App{
+   width: 50vw;
+   
+   background-color: #f3deed;
+   margin: 60px auto;
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 20px;
+   
+}
+
+.my_image > img{
+   border-radius: 50%;
+}
+
+.introduction{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 60px;
+  align-items: center;
+
+}
+
+.name{
+  text-transform: capitalize;
+  width: 170px;
+  color: #1411a6;  
+}
+
+
+.professional_description{
+  width: 250px;
+  color: #cf0008;
+  text-transform: capitalize;
+
+}
+
+.name__image__wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+  width: 320px;
+}
+
+.my_image__overlay{
+  background-color:#1411a6;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 0;
+  opacity: .4;
+}
+
+.my_image{
+  position: relative;
+}
+
+.specifics{
+  display: flex;
+  flex-direction: column;
+  
+}
+.specifics > h3{
+  margin: 0;
+}
+
+.email,.phone,.location,.linkedin,.twitter{
+  display: flex;
+  font-size: 11px;
+  align-items: center;
+}
+
+
+.social_contacts{
+  display: flex;
+  justify-content: space-around;
+  
+  width: 850px;
+  
+}
+
+.profile__section{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.skills__stuff{
+  margin-bottom: 30px;
+  width: 850px;
+  margin-left: 100px;
+  margin-top: 20px;
+ 
+}
+
+.left__div__one{
+  
+  width: 250px;
+}
+
+.left__div__two{
+  
+  width: 250px;
+}
+
+.right__div__one , .center__skills , .right__div__two{
+  
+  width: 250px;
+}
+
+.left__most__skills{
+  display: flex;
+  flex-direction: column;
+}
+
+.right__most__skills{
+  display: flex;
+  flex-direction: column;
+}
+
+.skills__stuff{
+  display: flex;
+  justify-content: space-between;
+}
+
+.interests{
+  display: flex;
+  justify-content: space-around;
+  width: 100px;
+  margin-top: 10px;
+}
+
+.skills__paragraph{
+  color: #1411a6;
+  font-size: 12px;
+}
+
+
+/*************************************************************************/
+.experiences{
+ 
+  font-size: 12px;
+  color: #1411a6;
+  margin-bottom: 30px;
+
+}
+
+.experiences h3{
+  font-size: 14px;
+  
+}
+
+.first__experience{
+  display: flex;
+}
+
+.duties__designation{
+ 
+  width: 500px;
+}
+
+.notable__projects__designation{
+  
+  width: 250px;
+}
+.duties__projects__wrapper__designation{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+
+
+
+.spacer{
+  height: 80px;
+}
+
+.placeholder{
+  
+  width: 70px;
+  margin-bottom: 20px;
+  border-bottom: 3px solid #1411a6;
+}
+
+/******************************************************/
+.App2{
+  width: 50vw;
+  height: 1000px; 
+  background-color: #f3deed;
+  margin: 60px auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+}
+.place__of__experience{
+  
+  width: 480px;
+}
+
+.experience__right__section{
+  margin-left: 10px;
+}
+
+.interships{
+  color: #1411a6;
+  font-size: 12px;
+  
+}
+.inner__wrapper__internships{
+  display: flex;
+}
+
+.place__date{
+ 
+  width: 480px;
+}
+
+.role{
+  margin-left: 40px;
+}
+
+
+
+.interships h3{
+  font-size: 14px;
+}
+.experience2{
+  margin-top: 40px;
+}

@@ -1,0 +1,66 @@
+@import './Global.css';
+
+
+.header{
+    display: flex;
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.header h2{
+    margin: 1px;
+}
+
+.hello_world, .introduction_profession{
+    color: var(--whittish);
+    text-transform: capitalize;
+    
+}
+
+.introduction_social_media{
+ color: var(--yellowish);
+ text-transform: capitalize;
+}
+
+.introduction_name{
+  color: var(--pinkish);
+  text-transform: capitalize;
+}
+
+.blueish{
+    color: var(--blueish);
+    text-transform: capitalize;
+}
+
+.yellowish{
+    color: var(--yellowish);
+
+}
+.contact_me{
+    color: var(--yellowish);
+    text-transform: capitalize;
+}
+.pinkish{
+    color: var(--pinkish);
+}
+.location{
+    text-transform: capitalize;
+    color: var(--whittish);
+}
+
+.formalities{
+    margin-left: auto;
+}
+
+.introduction_social_media  a{
+  color: inherit;
+}
+
+.resume{
+    color:var(--pinkish)
+}
+
+.resume > a{
+    color: var(--pinkish);
+}
