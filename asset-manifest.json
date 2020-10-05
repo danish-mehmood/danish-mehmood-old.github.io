@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/danish-mehmood.github.io/static/css/main.15fe3dbc.chunk.css",
-    "main.js": "/danish-mehmood.github.io/static/js/main.e764fb98.chunk.js",
-    "main.js.map": "/danish-mehmood.github.io/static/js/main.e764fb98.chunk.js.map",
+    "main.css": "/danish-mehmood.github.io/static/css/main.da6aea55.chunk.css",
+    "main.js": "/danish-mehmood.github.io/static/js/main.119318cb.chunk.js",
+    "main.js.map": "/danish-mehmood.github.io/static/js/main.119318cb.chunk.js.map",
     "runtime-main.js": "/danish-mehmood.github.io/static/js/runtime-main.aeb3daa6.js",
     "runtime-main.js.map": "/danish-mehmood.github.io/static/js/runtime-main.aeb3daa6.js.map",
     "static/js/2.62fa569c.chunk.js": "/danish-mehmood.github.io/static/js/2.62fa569c.chunk.js",
     "static/js/2.62fa569c.chunk.js.map": "/danish-mehmood.github.io/static/js/2.62fa569c.chunk.js.map",
     "index.html": "/danish-mehmood.github.io/index.html",
-    "precache-manifest.9defd4bc3bed2928e488e23360a1f159.js": "/danish-mehmood.github.io/precache-manifest.9defd4bc3bed2928e488e23360a1f159.js",
+    "precache-manifest.3fb1246423fa885af9fff488faa89035.js": "/danish-mehmood.github.io/precache-manifest.3fb1246423fa885af9fff488faa89035.js",
     "service-worker.js": "/danish-mehmood.github.io/service-worker.js",
-    "static/css/main.15fe3dbc.chunk.css.map": "/danish-mehmood.github.io/static/css/main.15fe3dbc.chunk.css.map",
+    "static/css/main.da6aea55.chunk.css.map": "/danish-mehmood.github.io/static/css/main.da6aea55.chunk.css.map",
     "static/js/2.62fa569c.chunk.js.LICENSE.txt": "/danish-mehmood.github.io/static/js/2.62fa569c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.aeb3daa6.js",
     "static/js/2.62fa569c.chunk.js",
-    "static/css/main.15fe3dbc.chunk.css",
-    "static/js/main.e764fb98.chunk.js"
+    "static/css/main.da6aea55.chunk.css",
+    "static/js/main.119318cb.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66a993230359a6a369aef643c68ad166",
+    "revision": "50ba188315315199d4fbf47337063f05",
     "url": "/danish-mehmood.github.io/index.html"
   },
   {
-    "revision": "feff84a19599dfa065e5",
-    "url": "/danish-mehmood.github.io/static/css/main.15fe3dbc.chunk.css"
+    "revision": "3186c63e145f68d6f982",
+    "url": "/danish-mehmood.github.io/static/css/main.da6aea55.chunk.css"
   },
   {
     "revision": "c069b7586872ef9c2df7",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/danish-mehmood.github.io/static/js/2.62fa569c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "feff84a19599dfa065e5",
-    "url": "/danish-mehmood.github.io/static/js/main.e764fb98.chunk.js"
+    "revision": "3186c63e145f68d6f982",
+    "url": "/danish-mehmood.github.io/static/js/main.119318cb.chunk.js"
   },
   {
     "revision": "7a54e6abf82ded3df3d7",
